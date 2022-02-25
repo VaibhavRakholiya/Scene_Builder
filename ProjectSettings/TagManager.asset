@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Grid_Visuals
+  - Item_Parent
   layers:
   - Default
   - TransparentFX
